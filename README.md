@@ -20,11 +20,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janielcaday) 
 
-## 💻 Tech Stack: Java<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="20"/>, C# <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="20"/>, C <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"/>, , Python <img src="https://www.svgrepo.com/show/376344/python.svg" width="20"/>,
+## 💻 Tech Stack: 
 
-
-
-#### Languages:
+#### Languages: Java<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="20"/>, C# <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="20"/>, C <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"/>, Python <img src="https://www.svgrepo.com/show/376344/python.svg" width="20"/>,  HTML <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="20"/>,  CSS <img src="https://www.svgrepo.com/show/373535/css.svg" width="20"/>,  Python <img src="https://www.svgrepo.com/show/376344/python.svg" width="20"/>,  Python <img src="https://www.svgrepo.com/show/376344/python.svg" width="20"/>, 
 
 #### Cloud Technologies: Amazon Web Services<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20"/>, Firebase <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="20"/>, Google Cloud Platform <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="20"/>
 
