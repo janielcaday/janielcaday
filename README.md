@@ -1,21 +1,20 @@
-# Janiel Chloe Caday 👋🏼
+# Janiel Chloe Caday 👋🏼👩🏻‍💻
 <p align ="center">
   <img src="https://github.com/janielcaday/janielcaday/blob/main/HelloGitHub.gif" width="500" />
 </p>
 
 ## 💫 About Me:
 💻 I'm from Atlanta, GA, and I recently graduated from Georgia State University with a BS in Computer Science. I really enjoy web development and object-oriented languages such as Java, C#, Python, etc. and have experience in enterprise software. <br><br>  🫱🏽‍🫲🏿 I am deeply passionate about diversifying the tech industry, and have taken part in several initiatives to foster the growth of diversity in STEM. Such initiatives are geared toward:
-
-- [x] helping individuals with professional development, and exposure to companies
-- [x] expanding the accessibility of computer science resources for all ages
-- [x] promoting awareness and education centered around understanding different cultures and perspectives
-- [x] stimulating conversation about diversity-related issues, challenges, and opportunities
+- [x] 🏙 helping individuals with professional development, and exposure to companies 
+- [x] 👧🏻 expanding the accessibility of computer science resources for all ages 
+- [x] 🧕🏽 promoting awareness and education centered around understanding different cultures and perspectives 
+- [x] 🤔 stimulating conversation about diversity-related issues, challenges, and opportunities
 
 #### Quick Facts:
 - 🙋🏻‍♀️ Pronouns: She/Her
 - 🐈‍⬛ Cat mom (but I love dogs just as much!)
 - 👨‍👩‍👧‍👦 Oldest of four siblings
-- 🧩 I have loved logic puzzles since I was kid
+- 🧩 I solved my first rubik's cube at 8-years-old, and have been building my collection ever since!
 
 
 ## 🌐 Socials:
