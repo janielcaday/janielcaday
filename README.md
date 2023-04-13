@@ -10,7 +10,7 @@
 [x] promoting awareness and education centered around understanding different cultures and perspectives
 [x] stimulating conversation about diversity-related issues, challenges, and opportunities
 
-####Quick Facts:
+#### Quick Facts:
 - 🙋🏻‍♀️ Pronouns: She/Her
 - 🐈‍⬛ Cat mom (but I love dogs just as much!)
 - 👨‍👩‍👧‍👦 Oldest of four siblings
