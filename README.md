@@ -43,7 +43,8 @@
 <!-- Git, Confluence, Jira, Swagger,  -->
 ---
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=janielcaday&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=janielcaday&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 ---
 ## 🌐 Socials:
 📫 Email: janielcaday@gmail.com </br></br>
