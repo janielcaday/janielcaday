@@ -20,7 +20,7 @@
 ## 🌐 Socials:
 <!-- [![LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg = 250x250)](https://linkedin.com/in/janielcaday)  -->
 
-<img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="30" title="Java"/> ![](https://linkedin.com/in/janielcaday)
+<a href="ttps://linkedin.com/in/janielcaday"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" title="Java"/>
 
 ## 💻 Tech Stack: 
 
