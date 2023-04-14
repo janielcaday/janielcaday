@@ -3,6 +3,8 @@
   <img src="https://github.com/janielcaday/janielcaday/blob/main/HelloGitHubProfile.gif" width="550" />
 </p>
 
+---
+
 ## 💫 About Me:
 💻 I'm from Atlanta, GA, and I recently graduated from Georgia State University with a BS in Computer Science. I really enjoy web development and object-oriented languages such as Java, C#, Python, etc. and have experience in enterprise software. <br><br>  🫱🏽‍🫲🏿 I am deeply passionate about diversifying the tech industry, and have taken part in several initiatives to foster the growth of diversity in STEM. Such initiatives are geared toward:
 - [x] 🏙 helping individuals with professional development, and exposure to companies 
@@ -15,7 +17,7 @@
 - 🐈‍⬛ Cat mom (but I love dogs just as much!)
 - 👨‍👩‍👧‍👦 Oldest of four siblings
 - 🧩 I solved my first rubik's cube at 8-years-old, and have been building my collection ever since!
-
+---
 ## 💻 Tech Stack: 
 >Please hover over green cursor or icon for text version.
 
@@ -39,10 +41,10 @@
 
 ### <img src="https://www.svgrepo.com/show/226220/cursor.svg" width="30" title="Git, Atlassian Confluence, Atlassian Jira, Swagger"/> Skills/Other Softwares: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" title="Git"/>, <img src="https://cdn.iconscout.com/icon/free/png-512/confluence-3628704-3029929.png?f=avif&w=512" width="30" title="Atlassian Confluence"/>, <img src="https://www.svgrepo.com/show/452241/jira.svg" width="30" title="Atlassian Jira"/>, <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="30" title="Swagger"/>
 <!-- Git, Confluence, Jira, Swagger,  -->
-
+---
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=janielcaday&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 ## 🌐 Socials:
 📫 Email: janielcaday@gmail.com </br></br>
 <a href="https://linkedin.com/in/janielcaday"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width:50px;height:50px;"></a>
