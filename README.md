@@ -1,6 +1,6 @@
 # Janiel Chloe Caday 👋🏼👩🏻‍💻
 <p align ="center">
-  <img src="https://github.com/janielcaday/janielcaday/blob/main/HelloGitHub.gif" width="500" />
+  <img src="https://github.com/janielcaday/janielcaday/blob/main/HelloGitHubProfile.gif" width="550" />
 </p>
 
 ## 💫 About Me:
