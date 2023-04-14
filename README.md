@@ -18,7 +18,8 @@
 
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/janielcaday"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width:42px;height:42px;"></a> <a href="https://github.com/janielcaday"><img src="https://www.svgrepo.com/show/475654/github-color.svg" style="width:42px;height:42px;"></a>
+<a href="https://linkedin.com/in/janielcaday"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width:42px;height:42px;"></a>
+<a href="https://github.com/janielcaday"><img src="https://www.svgrepo.com/show/475654/github-color.svg" style="width:42px;height:42px;"></a>
 
 https://www.svgrepo.com/show/475654/github-color.svg
 
