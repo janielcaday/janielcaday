@@ -16,7 +16,7 @@
 - 🙋🏻‍♀️ Pronouns: She/Her
 - 🐈‍⬛ Cat mom (but I love dogs just as much!)
 - 👨‍👩‍👧‍👦 Oldest of four siblings
-- 🧩 I solved my first rubik's cube at 8-years-old, and have been building my collection ever since!
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rubiks_F_1.svg/1024px-Rubiks_F_1.svg.png" width="17" title="Java, C#, Python, C, HTML, CSS, Javascript, PHP"/> I solved my first rubik's cube at 8-years-old, and have been building my collection ever since! 
 ---
 ## 💻 Tech Stack: 
 >Please hover over green cursor or icon for text version.
