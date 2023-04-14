@@ -18,7 +18,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janielcaday) 
+<!-- [![LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg = 250x250)](https://linkedin.com/in/janielcaday)  -->
+
+<img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="30" title="Java"/> ![](https://linkedin.com/in/janielcaday)
 
 ## 💻 Tech Stack: 
 
