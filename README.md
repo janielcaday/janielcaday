@@ -1,4 +1,4 @@
-# Janiel Chloe Caday 👋🏼👩🏻‍💻
+# Hello! I'm Janiel Chloe Caday 👋🏼👩🏻‍💻
 <p align ="center">
   <img src="https://github.com/janielcaday/janielcaday/blob/main/HelloGitHubProfile.gif" width="550" />
 </p>
