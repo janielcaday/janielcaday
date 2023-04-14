@@ -16,13 +16,6 @@
 - 👨‍👩‍👧‍👦 Oldest of four siblings
 - 🧩 I solved my first rubik's cube at 8-years-old, and have been building my collection ever since!
 
-
-## 🌐 Socials:
-<a href="https://linkedin.com/in/janielcaday"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width:42px;height:42px;"></a>
-<a href="https://github.com/janielcaday"><img src="https://www.svgrepo.com/show/475654/github-color.svg" style="width:42px;height:42px;"></a>
-
-https://www.svgrepo.com/show/475654/github-color.svg
-
 ## 💻 Tech Stack: 
 >Please hover over green cursor or icon for text version.
 
@@ -45,8 +38,14 @@ https://www.svgrepo.com/show/475654/github-color.svg
 ### <img src="https://www.svgrepo.com/show/226220/cursor.svg" width="30" title="Git, Atlassian Confluence, Atlassian Jira, Swagger"/> Skills/Other Softwares: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" title="Git"/>, <img src="https://cdn.iconscout.com/icon/free/png-512/confluence-3628704-3029929.png?f=avif&w=512" width="30" title="Atlassian Confluence"/>, <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" width="30" title="Atlassian Jira"/>, <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="30" title="Swagger"/>
 <!-- Git, Confluence, Jira, Swagger,  -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=janielcaday&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials:
+📫 Email: janielcaday@gmail.com </br></br>
+<a href="https://linkedin.com/in/janielcaday"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width:50px;height:50px;"></a>
+<a href="https://github.com/janielcaday"><img src="https://www.svgrepo.com/show/475654/github-color.svg" style="width:50px;height:50px;"></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=janielcaday&icon=5&color=10)](https://visitcount.itsvg.in)
 
