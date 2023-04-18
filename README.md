@@ -10,7 +10,7 @@
 - [x] 🏙 helping peers with professional development, and exposure to companies 
 - [x] 👧🏻 expanding the accessibility of computer science resources for all ages 
 - [x] 🧕🏽 promoting awareness and education centered around understanding different cultures and perspectives 
-- [x] 🤔 stimulating conversation about diversity-related issues, challenges, and opportunities
+- [x] 💬 stimulating conversation about diversity-related issues, challenges, and opportunities
 
 #### Quick Facts:
 - 🙋🏻‍♀️ Pronouns: She/Her
