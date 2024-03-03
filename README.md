@@ -40,10 +40,7 @@
 <!-- Figma, Canva, Adobe Photoshop, Adobe Premier Pro -->
 
 ### <img src="https://www.svgrepo.com/show/226220/cursor.svg" width="30" title="Git, Atlassian Confluence, Atlassian Jira, Swagger"/> Skills/Other Softwares: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" title="Git"/>, <img src="https://cdn.iconscout.com/icon/free/png-512/confluence-3628704-3029929.png?f=avif&w=512" width="30" title="Atlassian Confluence"/>, <img src="https://www.svgrepo.com/show/452241/jira.svg" width="30" title="Atlassian Jira"/>, <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="30" title="Swagger"/>
-<!-- Git, Confluence, Jira, Swagger,  -->
----
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
+<!-- Git, Confluence, Jira, Swagger,  --> 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=janielcaday&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janielcaday&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 ---
 ## 🌐 Socials:
