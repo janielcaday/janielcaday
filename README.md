@@ -52,7 +52,6 @@
 <a href="https://github.com/janielcaday"><img src="https://www.svgrepo.com/show/475654/github-color.svg" style="width:50px;height:50px;"></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=janielcaday&icon=5&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
